@@ -1,0 +1,16 @@
+1. Usuwamy jedynki bo nie mają prawie zawsze sensu
+2. Usuwamy wyrazy które są niepoprawne w jakiś sposób
+3. Nazwy własne wyrzucamy
+4. GraphViz do wizualizacji
+5. Nazwy nie są nam potrzebne
+6. kasujemy cudzysłowia, ale powiązanie zostaje
+liczymy siłę powiązania
+
+bierzemy liczbę po lewej, dzielimy przez 900 i mamy siłę powiązania pomiędzy 2 słowami
+
+
+4 wersje grafów:
+punkt cenralny - nazwa pliku + save do PDFa, ale dane bierzemy ze wszystkich 4 plików
+wagę można umieścić w grafie
+
+
